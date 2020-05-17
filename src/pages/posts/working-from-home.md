@@ -1,7 +1,6 @@
 ---
 title: 'Communities for people, not cars'
 date: '2020-04-04'
-thumb_img_path: /images/civic-center.png
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
