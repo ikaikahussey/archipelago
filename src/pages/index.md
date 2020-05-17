@@ -1,5 +1,5 @@
 ---
-title: Home
+title: T.S.O.H.
 has_intro: false
 intro_content: We're chronicling and imagining the changing state of Hawaii.
 intro_actions:
