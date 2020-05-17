@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: 'Communities for people, not cars'
 date: '2019-03-30'
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
