@@ -1,6 +1,6 @@
 ---
 title: 'Communities for people, not cars'
-date: '2019-03-30'
+date: '2020-04-04'
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 excerpt: >-
