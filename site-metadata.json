@@ -2,7 +2,7 @@
     "title": "Stackbit Ampersand Theme",
     "description": "Medium inspired blogging theme for Stackbit",
     "layout_style": "list",
-    "palette": "green",
+    "palette": "red",
     "header": {
         "title": "Ampersand",
         "logo_img": "images/logo.png",
