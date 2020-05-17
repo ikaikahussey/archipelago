@@ -1,7 +1,7 @@
 ---
 title: T.S.O.H.
 has_intro: false
-intro_content: Chronicling and imagining the changing state of Hawaii.
+intro_content: Reimagining the changing state of Hawaii.
 intro_actions:
   - label: Learn More
     url: /about
