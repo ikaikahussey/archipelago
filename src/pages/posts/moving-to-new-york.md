@@ -1,6 +1,6 @@
 ---
 title: 'Waikiki, Venice of the Pacific'
-subtitle: A cautionary tale about life in New York
+subtitle: What happens when sea level rise hits Hawaii's economic center?
 date: '2018-01-23'
 thumb_img_path: images/5.jpg
 content_img_path: images/5.jpg
