@@ -1,6 +1,8 @@
 ---
 title: Good jobs to improve the ecosystem
-subtitle: 'Reforesting natives, restoring streams – these could be the jobs of the future'
+subtitle: >-
+  Reforesting natives, restoring streams – these could be the jobs of a better
+  future
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
