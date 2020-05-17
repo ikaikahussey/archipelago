@@ -1,7 +1,7 @@
 ---
 title: 'Communities for people, not cars'
 date: '2020-04-04'
-thumb_img_path: images/9.jpg
+thumb_img_path: /images/civic-center.png
 content_img_path: images/9.jpg
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
