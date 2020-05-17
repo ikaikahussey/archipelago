@@ -22,7 +22,7 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
 
 1. run the following command to fetch additional site contents from Stackbit if needed:
 
-        npx @stackbit/stackbit-pull --stackbit-pull-api-url=__STACKBIT_PULL_API_URL__
+        npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/5ec0b29c3d098a001adc12d3
 
 1. Starts a development server
 
