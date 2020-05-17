@@ -1,75 +1,73 @@
 {
-  "title": "Stackbit Ampersand Theme",
-  "description": "Medium inspired blogging theme for Stackbit",
-  "layout_style": "grid",
-  "palette": "black",
-  "header": {
-    "title": "TSOH // Chronicling and reimagining the state of Hawaii",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "label": "Home",
-        "url": "/",
-        "type": "link"
-      },
-      {
-        "label": "About",
-        "url": "/about/",
-        "type": "link"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact/",
-        "type": "link"
-      }
-    ],
-    "logo_img": "/images/thestateofhawaii.jpg"
-  },
-  "footer": {
-    "content": "&copy; All rights reserved.",
-    "links": [
-
-    ],
-    "has_social": true,
-    "social_links": [
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "type": "icon",
-        "icon_class": "fa-twitter",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "type": "icon",
-        "icon_class": "fa-instagram",
-        "new_window": true
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "type": "icon",
-        "icon_class": "fa-github",
-        "new_window": true
-      },
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "type": "icon",
-        "icon_class": "fa-linkedin",
-        "new_window": true
-      },
-      {
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "type": "icon",
-        "icon_class": "fa-dev",
-        "new_window": true
-      }
-    ],
-    "has_subscribe": true,
-    "subscribe_title": "Subscribe for new updates",
-    "subscribe_content": ""
-  }
+    "title": "",
+    "description": "Medium inspired blogging theme for Stackbit",
+    "layout_style": "grid",
+    "palette": "black",
+    "header": {
+        "title": "TSOH // Chronicling and reimagining the state of Hawaii",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "type": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "type": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "type": "link"
+            }
+        ],
+        "logo_img": "/images/thestateofhawaii.jpg"
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "type": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "type": "icon",
+                "icon_class": "fa-instagram",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "type": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "type": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/",
+                "type": "icon",
+                "icon_class": "fa-dev",
+                "new_window": true
+            }
+        ],
+        "has_subscribe": true,
+        "subscribe_title": "Subscribe for new updates",
+        "subscribe_content": ""
+    }
 }
