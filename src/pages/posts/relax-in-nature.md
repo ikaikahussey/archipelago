@@ -1,5 +1,5 @@
 ---
-title: My Way to Relax in Nature and Stress Less
+title: Good jobs to improve the ecosystem
 subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
