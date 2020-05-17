@@ -5,7 +5,7 @@
     "palette": "red",
     "header": {
         "title": "TSOH",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
