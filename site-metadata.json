@@ -22,7 +22,8 @@
                 "url": "/contact/",
                 "type": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/tsoh-2.png"
     },
     "footer": {
         "content": "&copy; All rights reserved.",
