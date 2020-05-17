@@ -1,6 +1,6 @@
 ---
 title: Home
-has_intro: true
+has_intro: false
 intro_content: We're chronicling and imagining the changing state of Hawaii.
 intro_actions:
   - label: Learn More
