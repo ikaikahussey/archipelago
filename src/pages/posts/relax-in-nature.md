@@ -1,8 +1,6 @@
 ---
 title: Good jobs to improve the ecosystem
-subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+subtitle: 'Reforesting natives, restoring streams – these could be the jobs of the future'
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
