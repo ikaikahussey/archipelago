@@ -1,16 +1,22 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
+title: About
+subtitle: Where we're coming from
 img_path: images/about.jpg
 template: page
+excerpt: ''
+
 ---
+Archipelago is a multidisciplinary project, bridging journalism, speculative fiction, visual arts, community organizing, and politics. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Mission**
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+The goal of this site is to nurture Hawaii's collective imagination for the future of our archipelago, which Mark Twain described as "_The Loveliest Fleet of Islands that lies Anchored in any Ocean_." We're capable of incredible things, but first we have to a sense of where we're going. The goal of Archipelago is to provide visual substance for our future island home.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+**Submissions**
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Yes, we accept submissions. Read "What makes a good Archipelago post?".
 
-*Thank You for reading!*
+**What makes a good Archipelago post?**
+
+* It should be a concrete idea
+* If it's not your original idea, it should cite or link to original sources
