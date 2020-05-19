@@ -5,6 +5,6 @@ intro_content: 'A conversation about the present and future of our island home. 
 intro_actions:
   - label: Join
     url: /contact
-    type: secondary
+    type: primary
 template: home
 ---
