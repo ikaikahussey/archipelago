@@ -22,8 +22,7 @@
                 "url": "/contact/",
                 "type": "link"
             }
-        ],
-        "logo_img": "/images/thestateofhawaii.jpg"
+        ]
     },
     "footer": {
         "content": "&copy; All rights reserved.",
