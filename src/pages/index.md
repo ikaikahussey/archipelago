@@ -1,6 +1,6 @@
 ---
 title: T.S.O.H.
-has_intro: false
+has_intro: true
 intro_content: Reimagining the changing state of Hawaii.
 intro_actions:
   - label: Learn More
