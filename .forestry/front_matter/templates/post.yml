@@ -36,6 +36,18 @@ fields:
   default: post
   config:
     required: true
+- name: related_post
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: post
+      file: 
+      path: 
+  label: Related post
 pages:
 - src/pages/posts/basic-rules-for-walking-in-the-mountains.md
 - src/pages/posts/moving-to-new-york.md
