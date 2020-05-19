@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: Where we're coming from
-img_path: images/about.jpg
+img_path: ''
 template: page
 excerpt: ''
 
@@ -20,3 +20,7 @@ Yes, we accept submissions. Read "What makes a good Archipelago post?".
 
 * It should be a concrete idea
 * If it's not your original idea, it should cite or link to original sources
+
+**Who are we?**
+
+_Archipelago_ is part of a network of sites and publications. Sibling publications include _Summit_, _The Hawaii Independent_, and _Maoliworld_. All published by Add Homonym LLC.
