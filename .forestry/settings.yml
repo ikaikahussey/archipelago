@@ -12,12 +12,12 @@ sections:
   templates:
   - post
 - type: directory
-  path: src/pages/audiovisual
+  path: src/pages/audio-visual
   label: Audiovisual
   create: all
   match: "**/*"
   templates:
-  - audiovisual  
+  - audio-visual  
 - type: document
   path: src/pages/index.md
   label: Home
