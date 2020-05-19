@@ -1,13 +1,10 @@
 ---
 title: T.S.O.H.
 has_intro: true
-intro_content: New thinking about the present and future of our island home
+intro_content: 'Conversations, writings and artwork creating the future of our island home.'
 intro_actions:
-  - label: Learn More
-    url: /about
-    type: primary
-  - label: Contact
+  - label: Join
     url: /contact
-    type: secondary
+    type: primary
 template: home
 ---
