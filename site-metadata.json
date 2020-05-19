@@ -1,10 +1,10 @@
 {
-    "title": "The state of Hawaii",
-    "description": "Medium inspired blogging theme for Stackbit",
+    "title": "...",
+    "description": "Where we are, and where we're going",
     "layout_style": "grid",
     "palette": "black",
     "header": {
-        "title": "TSOH // Chronicling and reimagining the state of Hawaii",
+        "title": "archipelago",
         "has_nav": true,
         "nav_links": [
             {
@@ -22,8 +22,7 @@
                 "url": "/contact/",
                 "type": "link"
             }
-        ],
-        "logo_img": "/images/thestateofhawaii.jpg"
+        ]
     },
     "footer": {
         "content": "&copy; All rights reserved.",
