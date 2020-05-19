@@ -11,6 +11,13 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: directory
+  path: src/pages/audiovisual
+  label: Audiovisual
+  create: all
+  match: "**/*"
+  templates:
+  - audiovisual  
 - type: document
   path: src/pages/index.md
   label: Home
