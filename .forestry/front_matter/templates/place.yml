@@ -1,4 +1,26 @@
 ---
 label: Place
 hide_body: true
-fields: []
+fields:
+- name: place_name
+  type: text
+  config:
+    required: false
+  label: Place Name
+- name: maps_api_data
+  type: text
+  config:
+    required: false
+  label: Maps API Data
+- name: related_idea
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Related Idea
