@@ -1,9 +1,9 @@
 .site-title {
   color: #333;
-  font-family: "futura-pt", serif;
+  font-family: "Helvetica", serif;
   font-size: 2em;
   font-weight: 300;
   line-height: 1.2;
   margin: 0;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
